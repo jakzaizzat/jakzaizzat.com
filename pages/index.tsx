@@ -35,7 +35,7 @@ const Home: NextPage = () => {
           </li>
         </ul>
 
-        <Link>Contact through email</Link>
+        <Link>📨 Contact through email</Link>
 
         <p>[ This website still in progress ]</p>
       </Container>
