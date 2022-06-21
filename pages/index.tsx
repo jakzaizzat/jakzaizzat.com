@@ -8,7 +8,10 @@ const Home: NextPage = () => {
     <div>
       <Head>
         <title>Jakzaizzat</title>
-        <meta name="description" content="Freelance Frontend Developer from Malaysia" />
+        <meta
+          name="description"
+          content="Freelance Frontend Developer from Malaysia"
+        />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
@@ -19,19 +22,49 @@ const Home: NextPage = () => {
         <h2>Work</h2>
         <ul>
           <li>
-            <Link href="https://gallery.so/">Gallery</Link>
+            <Link
+              href="https://gallery.so/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Gallery
+            </Link>
           </li>
           <li>
-            <Link href="https://summerscan.xyz/">Summerscan</Link>
+            <Link
+              href="https://summerscan.xyz/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Summerscan
+            </Link>
           </li>
           <li>
-            <Link href="https://www.chibinouns.wtf/">Chibinouns</Link>
+            <Link
+              href="https://www.chibinouns.wtf/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Chibinouns
+            </Link>
           </li>
           <li>
-            <Link href="https://www.bettertradeoff.com/">BTO</Link>
+            <Link
+              href="https://www.bettertradeoff.com/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              BTO
+            </Link>
           </li>
           <li>
-            <Link href="https://taiger.com/">Taiger</Link>
+            <Link
+              href="https://taiger.com/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Taiger
+            </Link>
           </li>
         </ul>
 
